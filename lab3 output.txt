@@ -1,0 +1,47 @@
+Enter a name for the dog:
+Allen
+Dog name: Allen
+Dog age: 69
+Dog colour: brown
+Dogs eat meat.
+
+Enter a name for the cat:
+Ice
+Cat name: Ice
+Cat age: 69
+Cat colour: black
+Cats eat mice.
+Enter a name for the dog:
+Allen
+Enter a color for the dog:
+pink
+Enter an age for the dog:
+999
+Enter a height for the dog in ft:
+9
+Dog properties:
+Name: Allen
+Color: pink
+Age: 999
+Height: 9
+Dogs eat meat.
+Cry: Woof!
+Enter a name for the cat:
+Ice
+Enter a color for the cat:
+black and white
+Enter an age for the cat:
+666
+Enter a height for the cat in ft:
+6
+Cat properties:
+Name: Ice
+Color: black and white
+Age: 666
+Height: 6
+Cats eat mice.
+Cry: Meow!
+List of animal names:
+Allen
+Ice
+Press any key to continue . . .
